@@ -1,0 +1,33 @@
+
+[
+  {
+    "category": "ai_automation",
+    "service": "Predictive Maintenance Analytics",
+    "description": "AI models for equipment anomaly detection and potential failure prediction.",
+    "prerequisites": "Equipment telemetry and historical maintenance records."
+  },
+  {
+    "category": "ai_automation",
+    "service": "AI Workflow Automation",
+    "description": "AI-assisted business processes with human approval workflows.",
+    "prerequisites": "Documented processes and integration permissions."
+  },
+  {
+    "category": "cloud_infrastructure",
+    "service": "Cloud IoT Data Ingestion",
+    "description": "Cloud infrastructure to collect and process data from connected equipment.",
+    "prerequisites": "Available device interfaces and network connectivity."
+  },
+  {
+    "category": "data_analytics",
+    "service": "Enterprise Data Platform",
+    "description": "Consolidates operational information for analytics and reporting.",
+    "prerequisites": "Access to relevant source systems and data."
+  },
+  {
+    "category": "enterprise_integration",
+    "service": "Enterprise Application Integration",
+    "description": "Connects applications and automates data exchanges through supported APIs.",
+    "prerequisites": "Approved access to enterprise systems."
+  }
+]
